@@ -1,0 +1,17 @@
+/* Name: Dilan Samarasinghe
+   ID: DS697678
+*/
+
+#define OPCODE_LENGTH 5
+#define FORMAT_LENGTH 2
+#define SOURCE_FILE 1
+#define NUM_ARGS 2
+#define LINE_LENGTH 81
+#define EXTENSION_LENGTH 5
+#define	MAX_MEMORY 65536
+#define OPCODE_SHIFT 26
+#define REGT_SHIFT 11
+#define	REGS1_SHIFT 21
+#define REGS2_SHIFT 16
+#define SHIFTAMT_SHIFT 6
+#define CLEAR_LEFT 0x0000FFFF
